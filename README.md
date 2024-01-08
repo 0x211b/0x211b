@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @0x211b
--     I'm just a hobbiest, using my limited skills for personal projects and few projects for work.
+-     I'm just a hobbiest, using my limited skills for personal projects and a few projects for work.
 -     Always trying to learn more.
 
 - 🌱 I’m currently learning Kotlin.
 
-Languages that I dabble in:  BASH, Python, Kotlin, C++ (arduino), HTML, PHP.
+-     Languages that I dabble in:  BASH, Python, Kotlin, C++ (arduino), HTML, PHP.
 
 
 <!---
