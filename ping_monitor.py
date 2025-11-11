@@ -195,7 +195,7 @@ def main() -> None:
     lock = threading.Lock()
     stop_event = threading.Event()
 
-    interval = 5  # seconds between pings
+    interval = 2  # seconds between pings
     timeout = 2   # seconds to wait for a response
 
     threads = [
